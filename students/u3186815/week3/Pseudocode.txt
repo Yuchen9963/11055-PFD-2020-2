@@ -1,0 +1,17 @@
+DO
+    IF
+        Finish_math_homework="false" THEN
+            Do math homework
+            SET Finish_math_homework="true"
+    IF
+        Finish_English_homework="false" THEN
+            Do English homework
+            SET Finish_English_homework="true"
+    
+    IF
+        Outdoor sports="true"
+         play football
+         end
+    ELSE
+        play computer game
+        end
