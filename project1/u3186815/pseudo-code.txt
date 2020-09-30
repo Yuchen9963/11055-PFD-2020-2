@@ -1,0 +1,14 @@
+setup()
+
+while true
+   draw()
+
+draw()
+{
+	drawHair()
+	drawBody()
+	drawFace()
+	drawear()
+	drawEye()
+	drawMouth()
+}
