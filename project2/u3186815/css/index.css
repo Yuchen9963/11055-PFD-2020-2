@@ -1,0 +1,53 @@
+body{
+    background: #ccc;
+}
+.header{
+    width: 1000px;
+    height: 80px;
+    margin: 0 auto;
+    background: #eee;
+    text-align: center;
+}
+.header p{
+    line-height: 80px;
+    font-size: 30px;
+    font-weight: bold;
+}
+#contain{
+    width: 640px;
+    height: 460px;
+    padding: 20px;
+    margin: 10px auto;
+    background:url(../images/bg.png) center center no-repeat;
+}
+#book_covers{
+    width: 240px;
+    height: 380px;
+    padding: 40px;
+    float: left;
+}
+#book_covers img{
+    width: 240px;
+    height: 360px;
+}
+#book_content{
+    width: 240px;
+    padding: 40px;
+    float: left;
+}
+
+.title{
+    line-height: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.intro{
+    line-height: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+#book_content p{
+    line-height: 12px;
+    font-size: 12px;
+}
